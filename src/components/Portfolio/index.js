@@ -29,6 +29,12 @@ function Portfolio() {
       repo: "https://github.com/TWelk/NoteTaker"
     },
     {
+      name: 'project-one',
+      description: 'HTML/JavaScript/CSS',
+      link: "https://grdnd.github.io/group-project/",
+      repo: "https://github.com/grdnd/group-project"
+    },
+    {
       name: 'rock-paper-scissors',
       description: 'HTML/JavaScript/CSS',
       link: "https://twelk.github.io/rpsproject/",

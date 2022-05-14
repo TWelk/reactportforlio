@@ -1,70 +1,60 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Description
+This is a portfolio page displays my skills and education. This displays projects I created and projects I collaberated on. This is a site to showcase me and my abilities and has a PDF of my resume and a way to contact me for any questions or even job opportunities.
+## Table of Contents
+- [Technologies Used](#technologies-used)
+- [Functionality](#functionality)
+- [Credits](#credits)
+- [License](#license)
+## Technologies Used
+- React
+- Node.js
+- JavaScript
+- CSS
+- HTML
+## Functionality
+- Header:
+    - The header has my name displayed as well as the navbar
+- Navbar:
+    - About Me: has a small bio
+    - Protfolio: has a list of projects I worked on or created
+    - Cantact: has a form to send me an email to contact me
+    - Resume: has a list of my skill set as well as a link to download my resume
+- About Me Page:
+    - Porfolio photo
+    - A few things about me.
+- Portfolio Page:
+    - [Text Editor](https://github.com/TWelk/TextEditor)
+    - [Group Project 2](https://github.com/microjess/project2)
+    - [Tech Blog](https://github.com/TWelk/TechBlog)
+    - [Note Taker](https://github.com/TWelk/NoteTaker)
+    - [Group project - Anonymous Alcoholics](https://github.com/grdnd/group-project)
+    - [Rock, Paper, Scissors](https://github.com/TWelk/rpsproject)
+- Contact Page:
+    - Fill out the form
+        - Name
+        - Email Address
+        - Message
+- Footer:
+    - Social Links
+        - [GitHub](https://github.com/TWelk)
+        - [LinkedIn](https://www.linkedin.com/in/tylerwelker297/)
+        - [StackOverflow](https://stackoverflow.com/users/14720298/twelk)
+        - [Twitter](https://twitter.com/TylerWelker11)
+        - [Email](mailto:twelker08@gmail.com)
+## Credits
+TWelker
+## License
+MIT
+## Screenshots
+<img src="./src/assets/screenshots/AboutMe.jpg" alt="About Me Page" style="height: 400px; width:400px;"/><img src="./src/assets/screenshots/Contact.jpg" alt="Contact Page" style="height: 400px; width:400px;"/>  
+<img src="./src/assets/screenshots/Portfolio.jpg" alt="Portgolio Page" style="height: 400px; width:400px;"/><img src="./src/assets/screenshots/Resume.jpg" alt="Contact Page" style="height: 400px; width:400px;"/>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Preview
+![GIF](./src/assets/Portfolio.gif)
+## Live Site
+* [Live](https://twelk.github.io/reactportforlio/)
+## Repo Link
+* [Repo](https://github.com/TWelker/reactportfolio)
