@@ -1,7 +1,7 @@
 {
-  "main.css": "/reactportforlio/static/css/main.169efa1b.chunk.css",
-  "main.js": "/reactportforlio/static/js/main.ec0c826b.chunk.js",
-  "main.js.map": "/reactportforlio/static/js/main.ec0c826b.chunk.js.map",
+  "main.css": "/reactportforlio/static/css/main.1f54bb3b.chunk.css",
+  "main.js": "/reactportforlio/static/js/main.c7e903bf.chunk.js",
+  "main.js.map": "/reactportforlio/static/js/main.c7e903bf.chunk.js.map",
   "static/css/1.ebed13ad.chunk.css": "/reactportforlio/static/css/1.ebed13ad.chunk.css",
   "static/js/1.91b4d854.chunk.js": "/reactportforlio/static/js/1.91b4d854.chunk.js",
   "static/js/1.91b4d854.chunk.js.map": "/reactportforlio/static/js/1.91b4d854.chunk.js.map",
@@ -16,8 +16,8 @@
   "static/media/tech-blog.jpg": "/reactportforlio/static/media/tech-blog.ef8adf8c.jpg",
   "static/media/text-editor.jpg": "/reactportforlio/static/media/text-editor.f55cdcdc.jpg",
   "static/css/1.ebed13ad.chunk.css.map": "/reactportforlio/static/css/1.ebed13ad.chunk.css.map",
-  "static/css/main.169efa1b.chunk.css.map": "/reactportforlio/static/css/main.169efa1b.chunk.css.map",
+  "static/css/main.1f54bb3b.chunk.css.map": "/reactportforlio/static/css/main.1f54bb3b.chunk.css.map",
   "index.html": "/reactportforlio/index.html",
-  "precache-manifest.8ddc9a72fa8b1f20df207a49de676089.js": "/reactportforlio/precache-manifest.8ddc9a72fa8b1f20df207a49de676089.js",
+  "precache-manifest.37f8dc63748a7b65b3690726ef81afd4.js": "/reactportforlio/precache-manifest.37f8dc63748a7b65b3690726ef81afd4.js",
   "service-worker.js": "/reactportforlio/service-worker.js"
 }
