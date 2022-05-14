@@ -1,7 +1,7 @@
 {
   "main.css": "/reactportforlio/static/css/main.1f54bb3b.chunk.css",
-  "main.js": "/reactportforlio/static/js/main.c7e903bf.chunk.js",
-  "main.js.map": "/reactportforlio/static/js/main.c7e903bf.chunk.js.map",
+  "main.js": "/reactportforlio/static/js/main.c4276231.chunk.js",
+  "main.js.map": "/reactportforlio/static/js/main.c4276231.chunk.js.map",
   "static/css/1.ebed13ad.chunk.css": "/reactportforlio/static/css/1.ebed13ad.chunk.css",
   "static/js/1.91b4d854.chunk.js": "/reactportforlio/static/js/1.91b4d854.chunk.js",
   "static/js/1.91b4d854.chunk.js.map": "/reactportforlio/static/js/1.91b4d854.chunk.js.map",
@@ -18,6 +18,6 @@
   "static/css/main.1f54bb3b.chunk.css.map": "/reactportforlio/static/css/main.1f54bb3b.chunk.css.map",
   "static/css/1.ebed13ad.chunk.css.map": "/reactportforlio/static/css/1.ebed13ad.chunk.css.map",
   "index.html": "/reactportforlio/index.html",
-  "precache-manifest.37f8dc63748a7b65b3690726ef81afd4.js": "/reactportforlio/precache-manifest.37f8dc63748a7b65b3690726ef81afd4.js",
+  "precache-manifest.f02fb086eb84c156a5ce5ce01a5e8d00.js": "/reactportforlio/precache-manifest.f02fb086eb84c156a5ce5ce01a5e8d00.js",
   "service-worker.js": "/reactportforlio/service-worker.js"
 }
