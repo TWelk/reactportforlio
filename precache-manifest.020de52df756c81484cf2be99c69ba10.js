@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "c42762311ae71da56091",
-    "url": "/reactportforlio/static/css/main.1f54bb3b.chunk.css"
+    "revision": "bec03f61b7479997f9d2",
+    "url": "/reactportforlio/static/css/main.d7b57c7c.chunk.css"
   },
   {
-    "revision": "c42762311ae71da56091",
-    "url": "/reactportforlio/static/js/main.c4276231.chunk.js"
+    "revision": "bec03f61b7479997f9d2",
+    "url": "/reactportforlio/static/js/main.bec03f61.chunk.js"
   },
   {
-    "revision": "91b4d8541769946b20c1",
-    "url": "/reactportforlio/static/css/1.ebed13ad.chunk.css"
+    "revision": "5b7479d5b4aa93bf630b",
+    "url": "/reactportforlio/static/css/1.9c740486.chunk.css"
   },
   {
-    "revision": "91b4d8541769946b20c1",
-    "url": "/reactportforlio/static/js/1.91b4d854.chunk.js"
+    "revision": "5b7479d5b4aa93bf630b",
+    "url": "/reactportforlio/static/js/1.5b7479d5.chunk.js"
   },
   {
     "revision": "d3865093f4e48e16eba4",
@@ -36,6 +36,10 @@ self.__precacheManifest = [
     "url": "/reactportforlio/static/media/note-taker.b648274e.jpg"
   },
   {
+    "revision": "2a330a76cf9ecb48980727ba715e3d8f",
+    "url": "/reactportforlio/static/media/project-one.2a330a76.jpg"
+  },
+  {
     "revision": "310ee46605c84d0c8149470a7e831890",
     "url": "/reactportforlio/static/media/project-two.310ee466.jpg"
   },
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/reactportforlio/static/media/text-editor.f55cdcdc.jpg"
   },
   {
-    "revision": "3421c9f7404540e46899d96e91f91051",
+    "revision": "75b4f02ad36b25a4f0de11d0c4edc9ed",
     "url": "/reactportforlio/index.html"
   }
 ];
