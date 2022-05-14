@@ -6,7 +6,7 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'text-editor',
-      description: 'MERN Stack',
+      description: 'Progressive Web App',
       link: "https://twlktexteditor.herokuapp.com",
       repo: "https://github.com/TWelk/TextEditor"
     },
