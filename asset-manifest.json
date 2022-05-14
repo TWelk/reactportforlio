@@ -1,16 +1,23 @@
 {
-  "files": {
-    "main.css": "/reactportforlio/static/css/main.073c9b0a.css",
-    "main.js": "/reactportforlio/static/js/main.443ec7e4.js",
-    "static/js/787.a3bcbff5.chunk.js": "/reactportforlio/static/js/787.a3bcbff5.chunk.js",
-    "static/media/logo.svg": "/reactportforlio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reactportforlio/index.html",
-    "main.073c9b0a.css.map": "/reactportforlio/static/css/main.073c9b0a.css.map",
-    "main.443ec7e4.js.map": "/reactportforlio/static/js/main.443ec7e4.js.map",
-    "787.a3bcbff5.chunk.js.map": "/reactportforlio/static/js/787.a3bcbff5.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.443ec7e4.js"
-  ]
+  "main.css": "/reactportforlio/static/css/main.169efa1b.chunk.css",
+  "main.js": "/reactportforlio/static/js/main.ec0c826b.chunk.js",
+  "main.js.map": "/reactportforlio/static/js/main.ec0c826b.chunk.js.map",
+  "static/css/1.ebed13ad.chunk.css": "/reactportforlio/static/css/1.ebed13ad.chunk.css",
+  "static/js/1.91b4d854.chunk.js": "/reactportforlio/static/js/1.91b4d854.chunk.js",
+  "static/js/1.91b4d854.chunk.js.map": "/reactportforlio/static/js/1.91b4d854.chunk.js.map",
+  "runtime~main.js": "/reactportforlio/static/js/runtime~main.d3865093.js",
+  "runtime~main.js.map": "/reactportforlio/static/js/runtime~main.d3865093.js.map",
+  "static/media/cover-image.jpg": "/reactportforlio/static/media/cover-image.2a8102c3.jpg",
+  "static/media/ME.jpg": "/reactportforlio/static/media/ME.8ab3b4f4.jpg",
+  "static/media/Tyler Welker - Resume.pdf": "/reactportforlio/static/media/Tyler Welker - Resume.1d58ed10.pdf",
+  "static/media/note-taker.jpg": "/reactportforlio/static/media/note-taker.b648274e.jpg",
+  "static/media/project-two.jpg": "/reactportforlio/static/media/project-two.310ee466.jpg",
+  "static/media/rock-paper-scissors.jpg": "/reactportforlio/static/media/rock-paper-scissors.09d9b181.jpg",
+  "static/media/tech-blog.jpg": "/reactportforlio/static/media/tech-blog.ef8adf8c.jpg",
+  "static/media/text-editor.jpg": "/reactportforlio/static/media/text-editor.f55cdcdc.jpg",
+  "static/css/1.ebed13ad.chunk.css.map": "/reactportforlio/static/css/1.ebed13ad.chunk.css.map",
+  "static/css/main.169efa1b.chunk.css.map": "/reactportforlio/static/css/main.169efa1b.chunk.css.map",
+  "index.html": "/reactportforlio/index.html",
+  "precache-manifest.8ddc9a72fa8b1f20df207a49de676089.js": "/reactportforlio/precache-manifest.8ddc9a72fa8b1f20df207a49de676089.js",
+  "service-worker.js": "/reactportforlio/service-worker.js"
 }
