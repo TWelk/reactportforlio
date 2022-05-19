@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "bec03f61b7479997f9d2",
-    "url": "/reactportforlio/static/css/main.d7b57c7c.chunk.css"
+    "revision": "01024f710b3b5c969566",
+    "url": "/reactportforlio/static/css/main.cc0fbdaf.chunk.css"
   },
   {
-    "revision": "bec03f61b7479997f9d2",
-    "url": "/reactportforlio/static/js/main.bec03f61.chunk.js"
+    "revision": "01024f710b3b5c969566",
+    "url": "/reactportforlio/static/js/main.01024f71.chunk.js"
   },
   {
-    "revision": "5b7479d5b4aa93bf630b",
-    "url": "/reactportforlio/static/css/1.9c740486.chunk.css"
+    "revision": "125a2d8d1e77bf6b2ca0",
+    "url": "/reactportforlio/static/css/1.3f687467.chunk.css"
   },
   {
-    "revision": "5b7479d5b4aa93bf630b",
-    "url": "/reactportforlio/static/js/1.5b7479d5.chunk.js"
+    "revision": "125a2d8d1e77bf6b2ca0",
+    "url": "/reactportforlio/static/js/1.125a2d8d.chunk.js"
   },
   {
     "revision": "d3865093f4e48e16eba4",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/reactportforlio/static/media/text-editor.f55cdcdc.jpg"
   },
   {
-    "revision": "75b4f02ad36b25a4f0de11d0c4edc9ed",
+    "revision": "22befd914a8cb10ed9b6f8174bf69743",
     "url": "/reactportforlio/index.html"
   }
 ];
