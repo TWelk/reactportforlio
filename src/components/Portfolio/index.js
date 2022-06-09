@@ -5,6 +5,12 @@ function Portfolio() {
 
   const [projects] = useState([
     {
+      name: 'soundify',
+      description: 'React App',
+      link: "https://soundify-home.herokuapp.com",
+      repo: "https://github.com/lewisemarcus/SoundClone"
+    },
+    {
       name: 'text-editor',
       description: 'Progressive Web App',
       link: "https://twlktexteditor.herokuapp.com",
