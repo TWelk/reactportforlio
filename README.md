@@ -57,4 +57,4 @@ MIT
 ## Live Site
 * [Live](https://twelk.github.io/reactportforlio/)
 ## Repo Link
-* [Repo](https://github.com/TWelker/reactportfolio)
+* [Repo]([https://github.com/TWelker/reactportfolio](https://twelk.github.io/reactportforlio/))
