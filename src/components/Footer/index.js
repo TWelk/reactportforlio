@@ -16,10 +16,6 @@ function Footer() {
       link: "https://stackoverflow.com/users/14720298/twelk"
     },
     {
-      name: "fa-brands fa-twitter",
-      link: "https://twitter.com/TylerWelker11"
-    },
-    {
       name: "fa fa-envelope",
       link: "mailto:twelker08@gmail.com"
     }
