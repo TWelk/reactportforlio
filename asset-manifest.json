@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactportforlio/static/css/main.3348128a.css",
+    "main.js": "/reactportforlio/static/js/main.326173b3.js",
+    "static/media/ME.jpg": "/reactportforlio/static/media/ME.c542cc798a4feed860d0.jpg",
+    "static/media/cover-image.jpg": "/reactportforlio/static/media/cover-image.4b790e389b962f2becf0.jpg",
+    "static/media/Tyler Welker - Resume.pdf": "/reactportforlio/static/media/Tyler Welker - Resume.65de1c2e6573395ff327.pdf",
+    "static/media/project-one.jpg": "/reactportforlio/static/media/project-one.606f3e9059a95dcb0dbe.jpg",
+    "static/media/soundify.jpg": "/reactportforlio/static/media/soundify.c7e0c9efb10854eab53b.jpg",
+    "static/media/project-two.jpg": "/reactportforlio/static/media/project-two.ae0366dd9d309c6b2565.jpg",
+    "static/media/tech-blog.jpg": "/reactportforlio/static/media/tech-blog.92e29b84c6f08fd59b6e.jpg",
+    "static/media/rock-paper-scissors.jpg": "/reactportforlio/static/media/rock-paper-scissors.e9c2020eb639d9dd4e0a.jpg",
+    "static/media/note-taker.jpg": "/reactportforlio/static/media/note-taker.17e6dbfaeb896bae7499.jpg",
+    "static/media/text-editor.jpg": "/reactportforlio/static/media/text-editor.ca574f4bd24ea1d40985.jpg",
+    "index.html": "/reactportforlio/index.html",
+    "main.3348128a.css.map": "/reactportforlio/static/css/main.3348128a.css.map",
+    "main.326173b3.js.map": "/reactportforlio/static/js/main.326173b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3348128a.css",
+    "static/js/main.326173b3.js"
+  ]
+}
