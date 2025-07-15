@@ -9,10 +9,13 @@ function About() {
         <img src={profilePic} alt="Profile Pic" width="200px" />
         </div>
         <p>
-          Hello, my name is Tyler Welker and I am a Full Stack Web Developer entering the Web Engineer industry, looking to work with teams on building new and innovative applications. I am knowledgeable in HTML, CSS, JavaScript, Node.js, Express.js, SQL, MongoDB, React, and GraphQL.
+          Hi, I’m Tyler Welker — a detail-oriented and adaptable professional with a strong foundation in Full Stack Web Development and data management. I’m passionate about building efficient, user-friendly applications and supporting teams through accurate and organized data entry and backend operations.
         </p>
         <p>
-          I graduated from International Business College with an associate degree in computer programming as well as completing a Full Stack Web Development course from University of California of Irvine. 
+          My technical skills include HTML, CSS, JavaScript, Node.js, Express.js, SQL, MongoDB, React, and GraphQL, along with a solid understanding of data processing and database management. I hold an associate degree in Computer Programming from International Business College and have completed a Full Stack Web Development program through the University of California, Irvine.
+        </p>
+        <p>
+          Whether working on front-end interfaces, back-end systems, or maintaining clean and reliable data, I bring a focused and reliable approach to every project.
         </p>
       </div>
     </section>
