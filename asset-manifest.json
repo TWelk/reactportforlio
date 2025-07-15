@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactportforlio/static/css/main.3348128a.css",
-    "main.js": "/reactportforlio/static/js/main.326173b3.js",
+    "main.js": "/reactportforlio/static/js/main.9fb3691e.js",
     "static/media/ME.jpg": "/reactportforlio/static/media/ME.c542cc798a4feed860d0.jpg",
     "static/media/cover-image.jpg": "/reactportforlio/static/media/cover-image.4b790e389b962f2becf0.jpg",
     "static/media/Tyler Welker - Resume.pdf": "/reactportforlio/static/media/Tyler Welker - Resume.65de1c2e6573395ff327.pdf",
@@ -14,10 +14,10 @@
     "static/media/text-editor.jpg": "/reactportforlio/static/media/text-editor.ca574f4bd24ea1d40985.jpg",
     "index.html": "/reactportforlio/index.html",
     "main.3348128a.css.map": "/reactportforlio/static/css/main.3348128a.css.map",
-    "main.326173b3.js.map": "/reactportforlio/static/js/main.326173b3.js.map"
+    "main.9fb3691e.js.map": "/reactportforlio/static/js/main.9fb3691e.js.map"
   },
   "entrypoints": [
     "static/css/main.3348128a.css",
-    "static/js/main.326173b3.js"
+    "static/js/main.9fb3691e.js"
   ]
 }
